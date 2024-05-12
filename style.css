@@ -29,16 +29,6 @@ header{
     align-items: center;
 }
 
-header .logo {
-    position: relative;
-    color: #000;
-    font-size: 30px;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-weight: 800;
-    letter-spacing: 1px;
-}
-
 header .navigation a {
     color: #000;
     background: #fff;
